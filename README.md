@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arjodeep!
 
 🎓 Student at **Indian Institute of Engineering Science and Technology (IIEST), Shibpur**  
-📧 Email: [arjodeepchatterjee9croll12@gmail.com]  
+📧 Email: arjodeepchatterjee9croll12@gmail.com 
 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/arjodeep-chatterjee/)
 
 ---
